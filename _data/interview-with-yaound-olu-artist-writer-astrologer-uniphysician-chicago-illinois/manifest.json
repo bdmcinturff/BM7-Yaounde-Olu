@@ -36,6 +36,12 @@
             "id": "https://bdmcinturff.github.io/BM7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription.json",
             "label": "Transcription"
           }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://bdmcinturff.github.io/BM7-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
+          }
         ],
         "items": [
           {
